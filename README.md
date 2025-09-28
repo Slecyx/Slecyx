@@ -30,9 +30,6 @@ Hi! I'm Slecyx, a 15-year-old coding adventurer from Türkiye 🌍. I live and b
 - 💬 Ask me about:  
   Python, AI, drones, Flutter, game dev, automation hacks, TikTok/Instagram bots 🤓  
 
-- 📫 Reach me at:  
-  [Email] or [LinkedIn] or simply DM me on GitHub! 💌  
-
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I sometimes code **more at night than I sleep** 🌙💻  
 - 🎮 Side hobbies: Gaming, creating mini-games, ASCII animations, tinkering with electronics  
@@ -97,8 +94,7 @@ Hi! I'm Slecyx, a 15-year-old coding adventurer from Türkiye 🌍. I live and b
 
 ### 💬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-✉️-red?style=for-the-badge)](mailto:youremail@example.com)  
+[![Linktree](https://img.shields.io/badge/Linktree-🌐-green?style=for-the-badge&logo=linktree)](https://linktr.ee/yigit_kurt)
 
 ---
 
