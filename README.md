@@ -1,54 +1,55 @@
-## Hi there 👋 I'm Slecyx! 🚀
+<!-- Profile README for Slecyx -->
 
-<!--
-**Slecyx/Slecyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center">Hi, I'm Slecyx 👋</h1>
 
-![Code Flow GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<p align="center">
+  <b>AI & Automation Enthusiast | Python & Flutter Developer | Creative Coder 🚀</b>
+</p>
 
 ---
 
-### 🧑 About Me
-Hi! I'm **Slecyx**, a 15-year-old coding adventurer from Türkiye 🌍. I live and breathe code, AI, drones, and game dev. I like turning **crazy ideas into functional, interactive projects**. Whether it’s a **face-recognizing drone 🛸**, an **AI image editor 🎨**, or a **terminal-based stickman battle ⚔️**, I’m always pushing boundaries.  
+### 🧠 About Me
 
-I’m passionate about **automation, AI, and creative coding**, and I enjoy experimenting with new tools and frameworks to build stuff that’s both useful and fun. My code is my playground, and I love sharing what I make with the world 🌟.
+Hey there! I'm **Slecyx**, a young developer from Türkiye 🇹🇷 who loves building things that blend **creativity and technology**.  
+I enjoy working with **AI, automation, drones, and game dev**, and I love turning crazy ideas into working projects 💡.
 
 - 🔭 **Currently working on:**  
-  - Autonomous drones with live video feed & AI face recognition 🛰️  
-  - Flutter mobile apps with Firebase backend 📱  
-  - AI image generator/editor 🎨  
-  - Terminal-based interactive mini-games ⚡  
-
-- 🌱 **Currently learning:**  
-  - Advanced Python & OpenCV 🐍  
-  - Computer vision & AI integration 🤖  
-  - Flutter UI/UX design & app optimization 🌈  
-  - ASCII & terminal-based animations 🎮  
-
-- 👯 **Looking to collaborate on:**  
   - AI-driven tools & automation bots 🤖  
-  - Fun, interactive mobile games 📱  
-  - Creative coding projects & challenges 🎨  
+  - Flutter mobile apps with Firebase 📱  
+  - Terminal-based mini-games ⚔️  
+  - Face recognition & image AI tools 🎨  
 
-- 💬 **Ask me about:**  
-  Python, AI, drones, Flutter, game dev, automation hacks, terminal animations, social media bots 🤓  
+- 🌱 **Learning:**  
+  - Advanced Python, OpenCV & AI integration 🧬  
+  - Flutter UI/UX design 🌈  
+  - Creative automation & robotics 🤖  
 
-- ⚡ **Fun fact:** I sometimes code **more at night than I sleep** 🌙💻  
-- 🎮 **Hobbies:** Gaming, ASCII animations, tinkering with electronics, exploring AI tools  
+- 💬 **Ask me about:** Python, AI, Drones, Flutter, Game Dev, Bots  
+- ⚡ **Fun fact:** I sometimes code more than I sleep 🌙💻  
 
 ---
 
-### 💻 Skills & Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| Area | Skills & Tools |
-|------|----------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python), ![Dart](https://img.shields.io/badge/Dart-3.10-blue?style=for-the-badge&logo=dart), JavaScript, HTML, CSS |
-| **Frameworks & Libraries** | Tkinter, Flutter, Firebase, Selenium, OpenCV, InsightFace |
-| **Tools** | Git, GitHub, VSCode, Photoshop, Figma, Blender (basic) |
-| **Interests** | AI, Drones, Automation, Game Dev, Creative Coding, Robotics |
-| **Fun Stuff** | ASCII animations, Interactive CLI apps, Social media bots |
+| **Category** | **Tools & Skills** |
+|---------------|-------------------|
+| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-3.10-blue?logo=dart&style=for-the-badge) JavaScript • HTML • CSS |
+| 🚀 **Frameworks & Libraries** | Flutter • Firebase • Tkinter • OpenCV • Selenium |
+| 🧩 **Tools & Platforms** | Git • GitHub • VS Code • Figma • Blender (Basic) |
+| 🎯 **Interests** | AI • Automation • Game Dev • Drones • Creative Coding |
+
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![Slecyx GitHub stats](https://github-readme-stats.vercel.app/api?username=Slecyx&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slecyx&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -57,47 +58,40 @@ I’m passionate about **automation, AI, and creative coding**, and I enjoy expe
 ### 🔥 Projects I'm Proud Of
 
 | Project | Description |
-|---------|-------------|
-| **Drone Face Recognition System** 🛸 | Python + Tkinter + InsightFace → Recognizes authorized users, gives audio alerts, live GPS & SQLite logging |
-| **Instagram Automation Bot** 📸 | Mass follow/unfollow, DM automation, proxy support |
-| **WriteUp** ✍️ | Wattpad-like platform using Flutter + Firebase, share stories & interact with community |
-| **ASCII Stickman Battle Game** ⚔️ | Terminal-based interactive game with combat animations & custom controls |
-| **AI Image Generator/Editor** 🎨 | Generate & remix images offline, no accounts required |
-
-![Coding GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+|----------|-------------|
+| 🛸 **Drone Face Recognition System** | Recognizes authorized users using InsightFace, GPS logging, and Tkinter UI |
+| ⚔️ **ASCII Stickman Battle** | Terminal-based game with real-time combat animations |
+| 📸 **Instagram Automation Bot** | Automates DMs, follows/unfollows, proxy support |
+| ✍️ **WriteUp** | Flutter + Firebase platform for creative stories |
+| 🎨 **AI Image Generator** | Offline AI image remix tool — no account needed! |
 
 ---
 
-### 🌟 Fun & Geeky Badges
+### 🤝 Connect With Me
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python) 
-![Flutter](https://img.shields.io/badge/Flutter-3.10-blue?style=for-the-badge&logo=flutter) 
-![Firebase](https://img.shields.io/badge/Firebase-9.22-yellow?style=for-the-badge&logo=firebase) 
-![AI](https://img.shields.io/badge/AI-OpenCV-red?style=for-the-badge) 
-![Drones](https://img.shields.io/badge/Drones-🚀-green?style=for-the-badge)
-
----
-
-### 🎨 Fun Facts About Me
-- I code more than I sleep 🛌💻  
-- I build bots and mini-games just for fun 🤖  
-- I love ASCII art & terminal animations 🎮  
-- Night coding is my superpower 🌙  
-- I enjoy turning crazy ideas into small “magical” projects ✨  
+<p align="center">
+  <a href="mailto:yusuf.2010.yigit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yigitkurt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linktr.ee/yigit_kurt"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### ☕ Support
 
-![Slecyx GitHub stats](https://github-readme-stats.vercel.app/api?username=Slecyx&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slecyx&layout=compact&theme=radical)
-
----
-
-### 💬 Let’s Connect
-
-[![Linktree](https://img.shields.io/badge/Linktree-🌐-green?style=for-the-badge&logo=linktree)](https://linktr.ee/yigit_kurt)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/slecyx"><img src="https://img.shields.io/badge/☕ Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+</p>
 
 ---
 
-> “Code like nobody’s watching, create like the world depends on it.” 🌟
+### 📊 Profile Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Slecyx&label=Profile%20views&color=0e75b6&style=flat" alt="Slecyx" />
+</p>
+
+---
+
+> 💬 “Code like nobody’s watching, create like the world depends on it.” 🌟
+
