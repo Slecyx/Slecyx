@@ -13,20 +13,6 @@
 Hey there! I'm **Slecyx**, a young developer from Türkiye 🇹🇷 who loves building things that blend **creativity and technology**.  
 I enjoy working with **AI, automation, drones, and game dev**, and I love turning crazy ideas into working projects 💡.
 
-- 🔭 **Currently working on:**  
-  - AI-driven tools & automation bots 🤖  
-  - Flutter mobile apps with Firebase 📱  
-  - Terminal-based mini-games ⚔️  
-  - Face recognition & image AI tools 🎨  
-
-- 🌱 **Learning:**  
-  - Advanced Python, OpenCV & AI integration 🧬  
-  - Flutter UI/UX design 🌈  
-  - Creative automation & robotics 🤖  
-
-- 💬 **Ask me about:** Python, AI, Drones, Flutter, Game Dev, Bots  
-- ⚡ **Fun fact:** I sometimes code more than I sleep 🌙💻  
-
 ---
 
 ### 🛠️ Tech Stack
@@ -55,18 +41,6 @@ I enjoy working with **AI, automation, drones, and game dev**, and I love turnin
 
 ---
 
-### 🔥 Projects I'm Proud Of
-
-| Project | Description |
-|----------|-------------|
-| 🛸 **Drone Face Recognition System** | Recognizes authorized users using InsightFace, GPS logging, and Tkinter UI |
-| ⚔️ **ASCII Stickman Battle** | Terminal-based game with real-time combat animations |
-| 📸 **Instagram Automation Bot** | Automates DMs, follows/unfollows, proxy support |
-| ✍️ **WriteUp** | Flutter + Firebase platform for creative stories |
-| 🎨 **AI Image Generator** | Offline AI image remix tool — no account needed! |
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -80,7 +54,7 @@ I enjoy working with **AI, automation, drones, and game dev**, and I love turnin
 ### ☕ Support
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/slecyx"><img src="https://img.shields.io/badge/☕ Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+  <a href="https://www.buymeacoffee.com/yusuf2010yt"><img src="https://img.shields.io/badge/☕ Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
 ---
