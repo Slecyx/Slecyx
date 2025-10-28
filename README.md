@@ -11,7 +11,6 @@
 ### 🧠 About Me
 
 Hey there! I'm **Slecyx**, a young developer from Türkiye 🇹🇷 who loves building things that blend **creativity and technology**.  
-I enjoy working with **AI, automation, drones, and game dev**, and I love turning crazy ideas into working projects 💡.
 
 ---
 
